@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const graph = require('../graph');
 const { dijkstra } = require('../utils.js');
+const { sendPathToESP } = require('../iot.js'); // IoT integration
 
 router.post('/', (req, res) => {
   const { from, to, busy } = req.body;

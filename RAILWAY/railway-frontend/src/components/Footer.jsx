@@ -3,7 +3,9 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <p>Railway Optimization System - 2025     vivek semwal</p>
+      <p> Railway Optimization System :
+      Team members: Vivek Semwal, Ananya Dobhal, Diya Pundir, Priyanshu Kundliya
+      </p>
     </footer>
   );
 }
