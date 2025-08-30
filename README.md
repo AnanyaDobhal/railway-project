@@ -5,12 +5,6 @@ If any busy station lies in between the route, the system automatically finds th
 
 This project was developed as part of Project Based Learning (PBL) in B.Tech CSE, 4th Semester by a 4-member team.
 
-# 📸 Screenshots & Demo
-Web Application
-
-Hardware Prototype:
-|Breadboard Setup	|LED Indicators   |
-
 # ✨ Features
 
 ✅ Shortest path calculation using **Dijkstra Algorithm**
